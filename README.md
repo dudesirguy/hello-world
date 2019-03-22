@@ -1,3 +1,4 @@
 # hello-world
 
-hello my name is James and I love tech!
+Hello my name is James and I love tech! 
+Cheeseburgers are my favorite.
